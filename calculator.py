@@ -19,3 +19,17 @@ def log(a,b):
         return math.log(b, a)
 def exp(a,b):
     return a**b
+def square_root(a):
+    try:
+        math.sqrt(a)
+    except ValueError:
+        raise ValueError()
+    else:
+        return math.sqrt(a)
+def hypotenuse(a,b):
+    try:
+        math.hypot(a,b)
+    except Exception as e:
+        raise e
+    else:
+        return math.hypot(a,b)
