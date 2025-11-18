@@ -1,3 +1,7 @@
+# https://github.com/dmtatham08-del/lab11-DT-AW/tree/main
+# Partner 1:
+# Partner 2: Ashley Weiss
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
