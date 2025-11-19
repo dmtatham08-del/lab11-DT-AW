@@ -1,3 +1,4 @@
+#https://github.com/dmtatham08-del/lab11-DT-AW, David was p1, Ashley was p2
 import math
 def add(a, b): 
     return a+b
