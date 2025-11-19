@@ -1,5 +1,5 @@
 # https://github.com/dmtatham08-del/lab11-DT-AW/tree/main
-# Partner 1:
+# Partner 1: David Tatham
 # Partner 2: Ashley Weiss
 
 import unittest
